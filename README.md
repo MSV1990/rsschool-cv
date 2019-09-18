@@ -1,2 +1,1 @@
-# rsschool-cv
-Git and Markdown Task
+https://msv1990.github.io/rsschool-cv/cv
