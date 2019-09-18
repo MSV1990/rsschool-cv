@@ -7,13 +7,13 @@ SIARHEI MATSIASH
 
 ***
 #### 2. Contacts:
-[![](location.png)](https://www.google.com/maps/place/%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82+%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0+89,+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA/data=!4m2!3m1!1s0x46dbc56b5bf91755:0x8337ee042e441293?ved=2ahUKEwjdtZrumubgAhUSMewKHS1qAxUQ8gEwAHoECAAQAQ) Minsk, Pushkina st. 89
+[![](./icons/location.png)](https://www.google.com/maps/place/%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82+%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0+89,+%D0%9C%D0%B8%D0%BD%D1%81%D0%BA/data=!4m2!3m1!1s0x46dbc56b5bf91755:0x8337ee042e441293?ved=2ahUKEwjdtZrumubgAhUSMewKHS1qAxUQ8gEwAHoECAAQAQ) Minsk, Pushkina st. 89
 
-[![](phone.png)](tel:+375295754135) +375295754135
+[![](./icons/phone.png)](tel:+375295754135) +375295754135
 
-[![](mail.png)](e-mail:htconemailbox@gmail.com) htconemailbox@gmail.com
+[![](./icons/mail.png)](e-mail:htconemailbox@gmail.com) htconemailbox@gmail.com
 
-[![](git.png)](https://github.com/MSV1990) GitHub
+[![](./icons/git.png)](https://github.com/MSV1990) GitHub
 
 
 ***
@@ -23,7 +23,7 @@ SIARHEI MATSIASH
 I'm 29 years old, not married. I work in a trolley park and repair electronics.
 I work here since 2010 year.
 I want to learn and grow in my experience, enjoy what I do, in my current job, I don't get it anymore and want to change it.
-I learn very quickly and I am very interested in web development, because it's very exciting to me to create something new and web development gives a lot of possibilities for it. I successfully completed RS2019Q1 js course [RSschool Certificate](https://drive.google.com/open?id=1nBLqKbFqL5Elsdrl3o7cgVSf8QOpMejg) 
+I learn very quickly and I am very interested in web development, because it's very exciting to me to create something new and web development gives a lot of possibilities for it.
 
 ***
 
@@ -36,7 +36,7 @@ I learn very quickly and I am very interested in web development, because it's v
 
 #### 5. Examples of the latest written codes:
 examples of my code can be shown in my github account
-[![](git.png)](https://github.com/MSV1990)
+[![](./icons/git.png)](https://github.com/MSV1990)
 
 Some of them:
 ```
@@ -109,6 +109,7 @@ function removeZeros(array) {
 
 #### 7. Education:
 I have a secondary special education. I studied at the Minsk State College of Electronics.
+I successfully completed RS2019Q1 js course [RSschool Certificate](https://drive.google.com/open?id=1nBLqKbFqL5Elsdrl3o7cgVSf8QOpMejg) 
 
 ***
 
