@@ -1,0 +1,48 @@
+body{
+    margin: 0 auto;
+     max-width: 1024px;
+     min-width: 320px;
+     padding: 0;
+     border: 0;
+     font-family: "Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+     font-size: 16px;
+     line-height: 1.5;
+     
+ }
+ 
+ h1{
+     text-align: center;
+ }
+
+ hr{
+     height: 4px;
+     background-color:  #e1e4e8;
+     border: none;
+ }
+ .code{
+     background-color:#f6f8fa;
+     margin-bottom: 8px;
+     border-radius: 3px;
+     font-family: "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
+     font-size: 14px;
+     color: #24292e;
+ }
+ 
+ .experience a, .school{
+     color: #0366d6;
+     text-decoration: none;
+ }
+ 
+ h4 {
+     font-weight: 600;
+     line-height: 1.25;
+     color:#24292e;
+ }
+ .foto{
+     width: 150px;
+     height: 150px;  
+ }
+
+ .figure {
+        text-align: center;
+ }
